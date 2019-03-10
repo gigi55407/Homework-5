@@ -1,0 +1,158 @@
+
+
+/* Contains game title */
+
+
+/* Sets the background image of the page */
+
+#whole_shebang {
+  width: 1400px;
+}
+
+
+h1 {
+  font: Cinema St Regular;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 50px;
+  position: center; 
+}
+
+
+#name_of_game {
+  margin-left: 125px;
+  font: Yu Gothic;
+}
+
+#start_quiz {
+  margin-left: 100px;
+  width: 600px;
+}
+
+#startQuiz {
+  margin-left: 150px;
+}
+
+#quiz_box {
+  margin-left: 100px;
+}
+
+
+#ques_1_picture {
+  float: left;
+  margin-right: 10px;
+  width: 300px;
+
+}
+
+#ques_1_text {
+  float: left;
+  margin-left: 10px; 
+  width: 400px; 
+}
+
+#ques_2_text {
+  float: left;
+  width: 400px;
+}
+
+.ques_row {
+  float: left;
+  margin-left: 100px;
+  width: 800px;
+}
+
+#ques_2_picture {
+  float: left;
+  width: 170px;
+  margin-left: 20px; 
+}
+
+#ques_3_picture {
+  float: left;
+  margin-right: 10px;
+}
+
+#ques_3_text {
+  float: left;
+  margin-left: 20px;
+}
+
+#ques_4_text {
+  float: left;
+  width: 400px;
+}
+
+#ques_4_picture {
+  float: left;
+  margin-left: 20px;
+  width: 200px;
+}
+
+#ques_5_picture {
+  float: left;
+  width: 200px;
+}
+
+#ques_5_text {
+  float: left;
+  width: 400px;
+}
+
+
+
+
+
+#Score {
+  float: left; 
+}
+
+
+body {
+  color: white;
+  font: "Times New Roman"; 
+  font-family: sans-serif;
+  background-image: url("red_curtain.jpg");
+  background-size: 1000px 1200px;
+}
+
+p {
+  font: Arial;
+}
+
+.option {
+  margin-left: 12px;
+}
+
+#quiz_box {
+  float: left;
+  width: 700px;
+  margin-left: 30px;
+  font: Arial; 
+}
+
+#submitAnswers {
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+#userScore {
+  float: left;
+  margin-left: 200px;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+
+
+#oscar_statuette {
+  width: 240px;
+  margin-top: 50px;
+}
+
+
+
+
+
+
